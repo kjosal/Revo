@@ -1,0 +1,43 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-inappbrowser@1.5.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-spinnerdialog": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-spinnerdialog"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.plugin.ActivityIndicator": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Initsogar/cordova-activityindicator",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
